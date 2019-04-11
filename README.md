@@ -1,6 +1,6 @@
 # Maintainability Benchmark of Microservices
 
-This repo contains a maintainability benchmark of open source Microservices based on expert ratings. You will find three things here:
+This repo contains a maintainability benchmark of open source Microservices based on expert ratings. You will find three things in here:
 
 - A [rating scheme](rating-scheme.xlsx) with all relevant properties
 - A [guide](rating-scheme-guide.md) explaining how to use the rating scheme
