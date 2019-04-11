@@ -14,4 +14,5 @@ This repo contains a maintainability benchmark of open source Microservices base
    - Navigate to the GitHub repository of the system and analyze its contents. You can also download the repo to your machine to ease browsing.
    - Create a preliminary rating for the system based on your analysis. Provide comments for your rationale, if appropriate.
 3. After analyzing all systems, refine the preliminary ratings based on your newly-gained insights.
-4. Send the filled out rating scheme back to us via email.
+4. Fill in the demographic data in the second tab of the rating scheme.
+5. Send the filled out rating scheme back to us via email.
