@@ -8,7 +8,7 @@ This repo contains a maintainability benchmark of open source Microservices base
 
 ## Suggested Study Process
 
-1. Carefully read the [rating guide](rating-scheme-guide.md) and examine the [rating scheme](rating-scheme.xlsx) afterwards.
+1. Carefully read the [rating guide](rating-scheme-guide.md), then download and examine the [rating scheme](rating-scheme.xlsx).
 2. While keeping the schema in mind, analyze each system.
    - Read the one-pager of the system.
    - Navigate to the GitHub repository of the system and analyze its contents. You can also download the repo to your machine to ease browsing.
